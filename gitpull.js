@@ -297,7 +297,7 @@ const comittes = [
     '[feat] : fixed virtual-reality-experiences advanced-betting-strategies'
   ];
         // ... Your file editing logic here ...
-const updateFile = () => {
+const updateFile = (index) => {
     const filePath = 'README.md'
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
@@ -305,7 +305,7 @@ const updateFile = () => {
         return;
     }
     // Modify the data (example: add a line)
-    const newData = data + `${comittes[0]}\n`;
+    const newData = data + `${comittes[index]}\n`;
     
     // Write the modified data back to the file
     fs.writeFile(filePath, newData, 'utf8', (err) => {
@@ -320,11 +320,11 @@ const updateFile = () => {
   
 const folderPath = 'src';
 const filePattern = /\.tsx$/; // Example: Edit only .txt files
-let pullNum = 2
+let pullNum = 7
 const baseBranch = 'master'
 setInterval(() => {
-    updateFile();
     const index = Math.floor(Math.random() * 100);
+    updateFile(index);
     exec(`git checkout -b ${gitbranches[index]}`, (error, stdout, stderr) => {
         if (error) {
           console.error(`exec error: ${error}`);
@@ -362,4 +362,4 @@ setInterval(() => {
               });
           });    
      });
-}, 5000);
+}, 3600000);
