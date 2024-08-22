@@ -7,7 +7,7 @@ import {menuList} from './component/menu/data';
 
 
 export const Rule = React.memo(() => {
-  const [currentItem, setCurrentItem] = React.useState<number>(0);
+  const [currentItem, setCurrentItem] = React.useState<number>(1);
 
   const handleSelectItem = (selectedData: number ) => {
     setCurrentItem(selectedData);
