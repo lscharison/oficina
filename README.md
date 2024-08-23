@@ -271,3 +271,7 @@ import css from './style.scss';
 [feat] : fixed referral-system personalized-recommendations
 [feat] : fixed advanced-betting-options live-dealer-games
 [feat] : fixed cash-out-feature live-streaming
+[hotfix] : fixed 3019
+[update] : updated 3022
+[fix] : fixed system-performance user-experience
+[update] : updated 3042
