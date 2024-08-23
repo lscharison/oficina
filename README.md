@@ -268,3 +268,4 @@ import css from './style.scss';
 [feat] : fixed tournament-betting live-chat-support
 [hotfix] : fixed 3019
 [fix] : fixed match-schedule bet-history
+[feat] : fixed referral-system personalized-recommendations
