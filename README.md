@@ -269,3 +269,4 @@ import css from './style.scss';
 [hotfix] : fixed 3019
 [fix] : fixed match-schedule bet-history
 [feat] : fixed referral-system personalized-recommendations
+[feat] : fixed advanced-betting-options live-dealer-games
