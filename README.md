@@ -262,3 +262,4 @@ import css from './style.scss';
 [fix] : fixed odds-calculation user-balance
 [update] : updated 3028
 [update] : updated 3002
+[feat] : fixed tournament-betting live-chat-support
