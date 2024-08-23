@@ -264,3 +264,4 @@ import css from './style.scss';
 [update] : updated 3002
 [feat] : fixed tournament-betting live-chat-support
 [fix] : fixed system-performance user-experience
+[update] : updated 3000
