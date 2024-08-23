@@ -258,3 +258,4 @@ import css from './style.scss';
 [update] : updated 3018
 [hotfix] : fixed 3027
 [hotfix] : fixed 3041
+[update] : updated 3022
