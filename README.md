@@ -277,3 +277,4 @@ import css from './style.scss';
 [update] : updated 3042
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
 [fix] : fixed user-feedback-system payment-security
+[feat] : fixed voice-command-betting augmented-reality-betting
