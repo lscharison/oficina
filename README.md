@@ -279,3 +279,4 @@ import css from './style.scss';
 [fix] : fixed user-feedback-system payment-security
 [feat] : fixed voice-command-betting augmented-reality-betting
 [feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3039
