@@ -287,3 +287,4 @@ import css from './style.scss';
 [fix] : fixed user-authentication notification-system
 [fix] : fixed system-performance user-experience
 [hotfix] : fixed 2995
+[hotfix] : fixed 3007
