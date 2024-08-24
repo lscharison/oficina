@@ -298,3 +298,5 @@ import css from './style.scss';
 [hotfix] : fixed 3025
 [fix] : fixed user-authentication notification-system
 [hotfix] : fixed 3017
+[update] : updated 3040
+[hotfix] : fixed 3013
