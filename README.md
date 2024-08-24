@@ -293,3 +293,4 @@ import css from './style.scss';
 [update] : updated 3028
 [hotfix] : fixed 3029
 [update] : updated 3030
+[feat] : fixed game-result
