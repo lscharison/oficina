@@ -295,3 +295,4 @@ import css from './style.scss';
 [update] : updated 3030
 [feat] : fixed game-result
 [feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3025
