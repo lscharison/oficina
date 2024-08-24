@@ -300,3 +300,5 @@ import css from './style.scss';
 [hotfix] : fixed 3017
 [update] : updated 3040
 [hotfix] : fixed 3013
+[update] : updated 3042
+[update] : updated 3020
