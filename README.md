@@ -289,3 +289,6 @@ import css from './style.scss';
 [hotfix] : fixed 2995
 [hotfix] : fixed 3007
 [update] : updated 3040
+[fix] : fixed system-performance user-experience
+[update] : updated 3028
+[hotfix] : fixed 3029
