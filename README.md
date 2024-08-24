@@ -280,3 +280,5 @@ import css from './style.scss';
 [feat] : fixed voice-command-betting augmented-reality-betting
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3039
+[fix] : fixed system-performance user-experience
+[fix] : fixed data-integrity user-profile
