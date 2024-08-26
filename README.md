@@ -313,3 +313,4 @@ import css from './style.scss';
 [hotfix] : fixed 3003
 [update] : updated 3020
 [feat] : fixed multi-language-support mobile-optimization
+[fix] : fixed bet-slip-errors payment-processing
