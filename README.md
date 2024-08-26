@@ -311,3 +311,5 @@ import css from './style.scss';
 [hotfix] : fixed 3007
 [update] : updated 3014
 [hotfix] : fixed 3003
+[update] : updated 3020
+[feat] : fixed multi-language-support mobile-optimization
