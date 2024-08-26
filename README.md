@@ -316,3 +316,4 @@ import css from './style.scss';
 [fix] : fixed bet-slip-errors payment-processing
 [feat] : fixed in-play-betting virtual-sports
 [hotfix] : fixed 3023
+[update] : updated 3032
