@@ -304,3 +304,5 @@ import css from './style.scss';
 [update] : updated 3020
 [hotfix] : fixed 3005
 [feat] : fixed artificial-intelligence-predictions social-betting-features
+[update] : updated 3040
+[hotfix] : fixed 3009
