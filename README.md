@@ -320,3 +320,5 @@ import css from './style.scss';
 [update] : updated 3018
 [update] : updated 3014
 [hotfix] : fixed 3031
+[update] : updated 3040
+[fix] : fixed bet-limits fraud-detection
