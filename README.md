@@ -314,3 +314,4 @@ import css from './style.scss';
 [update] : updated 3020
 [feat] : fixed multi-language-support mobile-optimization
 [fix] : fixed bet-slip-errors payment-processing
+[feat] : fixed in-play-betting virtual-sports
