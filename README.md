@@ -404,3 +404,24 @@ import css from './style.scss';
 [hotfix] : fixed 3015
 [fix] : fixed user-interface-updates data-analysis
 [fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3023
+[update] : updated 3016
+[hotfix] : fixed 3019
+[update] : updated 3002
+[fix] : fixed customer-service user-feedback
+[fix] : fixed bet-slip-errors payment-processing
+[feat] : fixed mobile-app affiliate-program
+[update] : updated 3026
+[hotfix] : fixed 3005
+[hotfix] : fixed 3003
+[update] : updated 3002
+[hotfix] : fixed 3029
+[hotfix] : fixed 3007
+[fix] : fixed bet-slip-errors payment-processing
+[hotfix] : fixed 3013
+[fix] : fixed match-schedule bet-history
+[update] : updated 2994
+[fix] : fixed user-interface-improvements system-stability
+[feat] : fixed in-play-betting virtual-sports
+[update] : updated 3004
+[hotfix] : fixed 3021
