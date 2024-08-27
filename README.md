@@ -520,3 +520,4 @@ import css from './style.scss';
 [fix] : fixed bet-slip-management user-interface
 [feat] : fixed cryptocurrency-payments personalized-offers
 [hotfix] : fixed 3031
+[update] : updated 3034
