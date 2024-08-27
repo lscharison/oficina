@@ -496,3 +496,4 @@ import css from './style.scss';
 [feat] : fixed promotional-offers social-media-integration
 [hotfix] : fixed 3003
 [hotfix] : fixed 3039
+[update] : updated 3032
