@@ -555,3 +555,4 @@ import css from './style.scss';
 [hotfix] : fixed 3029
 [hotfix] : fixed 2995
 [fix] : fixed data-integrity user-profile
+[update] : updated 3002
