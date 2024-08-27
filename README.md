@@ -357,3 +357,4 @@ import css from './style.scss';
 [fix] : fixed system-performance user-experience
 [update] : updated 2996
 [fix] : fixed user-verification bet-slip-validation
+[hotfix] : fixed 3001
