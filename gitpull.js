@@ -25,7 +25,7 @@ const gitbranches = [
     'feat/shilou-08-29',
     'hotfix/baibai-08-30',
     'update/shakti-08-31',
-    'fix/spextre-09-01',
+    'fix/spextre-09-02',
     'feat/walyen-09-02',
     'hotfix/volvo-09-03',
     'update/shilou-09-04',
@@ -55,7 +55,7 @@ const gitbranches = [
     'update/shilou-09-28',
     'fix/baibai-09-29',
     'feat/shakti-09-30',
-    'hotfix/spextre-10-01',
+    'hotfix/spextre-10-02',
     'update/walyen-10-02',
     'fix/volvo-10-03',
     'feat/shilou-10-04',
@@ -86,7 +86,7 @@ const gitbranches = [
     'hotfix/baibai-10-29',
     'update/shakti-10-30',
     'fix/spextre-10-31',
-    'feat/walyen-11-01',
+    'feat/walyen-11-02',
     'hotfix/volvo-11-02',
     'update/shilou-11-03',
     'fix/baibai-11-04',
@@ -116,7 +116,7 @@ const gitbranches = [
     'fix/baibai-11-28',
     'feat/shakti-11-29',
     'hotfix/spextre-11-30',
-    'update/walyen-12-01',
+    'update/walyen-12-02',
     'fix/volvo-12-02',
     'feat/shilou-12-03',
     'hotfix/baibai-12-04',
@@ -167,7 +167,7 @@ const comittes = [
     '[update] : updated 3000',
     '[fix] : fixed user-authentication notification-system',
     '[feat] : fixed in-play-betting virtual-sports',
-    '[hotfix] : fixed 3001',
+    '[hotfix] : fixed 3002',
     '[update] : updated 3002',
     '[fix] : fixed account-verification deposit-methods',
     '[feat] : fixed esports-betting loyalty-program',
@@ -184,26 +184,26 @@ const comittes = [
     '[fix] : fixed bet-limits fraud-detection',
     '[feat] : fixed promotional-offers social-media-integration',
     '[hotfix] : fixed 3009',
-    '[update] : updated 3010',
+    '[update] : updated 3020',
     '[fix] : fixed customer-service user-feedback',
     '[feat] : fixed referral-system personalized-recommendations',
-    '[hotfix] : fixed 3011',
-    '[update] : updated 3012',
+    '[hotfix] : fixed 3021',
+    '[update] : updated 3022',
     '[fix] : fixed data-security bet-settlement',
     '[feat] : fixed tournament-betting live-chat-support',
-    '[hotfix] : fixed 3013',
-    '[update] : updated 3014',
+    '[hotfix] : fixed 3023',
+    '[update] : updated 3024',
     '[fix] : fixed system-performance user-experience',
     '[feat] : fixed multi-language-support mobile-optimization',
-    '[hotfix] : fixed 3015',
-    '[update] : updated 3016',
+    '[hotfix] : fixed 3025',
+    '[update] : updated 3026',
     '[fix] : fixed bet-cancellation account-management',
     '[feat] : fixed loyalty-rewards virtual-reality-betting',
-    '[hotfix] : fixed 3017',
-    '[update] : updated 3018',
+    '[hotfix] : fixed 3027',
+    '[update] : updated 3028',
     '[fix] : fixed bet-slip-errors payment-processing',
     '[feat] : fixed advanced-betting-options live-dealer-games',
-    '[hotfix] : fixed 3019',
+    '[hotfix] : fixed 3029',
     '[update] : updated 3020',
     '[fix] : fixed user-verification bet-slip-validation',
     '[feat] : fixed blockchain-integration gamification-features',
@@ -325,7 +325,7 @@ const baseBranch = 'master'
 setInterval(() => {
     const index = Math.floor(Math.random() * 100);
     updateFile(index);
-    exec(`git checkout -b ${gitbranches[index]}01`, (error, stdout, stderr) => {
+    exec(`git checkout -b ${gitbranches[index]}02`, (error, stdout, stderr) => {
         if (error) {
           console.error(`exec error: ${error}`);
           return;
@@ -340,12 +340,12 @@ setInterval(() => {
                   console.error(`exec error: ${error}`);
                   return;
                 }
-                exec(`git push -uf origin ${gitbranches[index]}01`, (error, stdout, stderr) => {
+                exec(`git push -uf origin ${gitbranches[index]}02`, (error, stdout, stderr) => {
                     if (error) {
                       console.error(`exec error: ${error}`);
                       return;
                     }
-                    exec(`gh pr create --base ${baseBranch} --head ${gitbranches[index]}01 --title "${comittes[index]}" --body "${comittes[index]}"`, (error, stdout, stderr) => {
+                    exec(`gh pr create --base ${baseBranch} --head ${gitbranches[index]}02 --title "${comittes[index]}" --body "${comittes[index]}"`, (error, stdout, stderr) => {
                         if (error) {
                           console.error(`exec error: ${error}`);
                           return;

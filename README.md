@@ -722,3 +722,12 @@ t-feature live-streaming
 [update] : updated 2994
 [hotfix] : fixed 2999
 [update] : updated 3008
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3001
+[hotfix] : fixed 3033
+[update] : updated 3034
+[fix] : fixed user-account-security bet-slip-errors
+[update] : updated 3014
+[fix] : fixed match-schedule bet-history
+[fix] : fixed user-interface-improvements system-stability
+[feat] : fixed bonus-system customer-support
