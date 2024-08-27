@@ -516,3 +516,5 @@ import css from './style.scss';
 [hotfix] : fixed 2997
 [hotfix] : fixed 3011
 [feat] : fixed cryptocurrency-payments personalized-offers
+[fix] : fixed data-integrity user-profile
+[fix] : fixed bet-slip-management user-interface
