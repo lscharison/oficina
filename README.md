@@ -751,3 +751,6 @@ t-feature live-streaming
 [fix] : fixed odds-calculation user-balance
 [hotfix] : fixed 3039
 [fix] : fixed bet-slip-management user-interface
+[fix] : fixed system-performance user-experience
+[fix] : fixed bet-slip-management user-interface
+[hotfix] : fixed 3027
