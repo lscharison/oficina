@@ -332,3 +332,5 @@ import css from './style.scss';
 [update] : updated 3012
 [fix] : fixed account-verification deposit-methods
 [hotfix] : fixed 3037
+[update] : updated 3024
+[feat] : fixed live-betting withdrawal-system
