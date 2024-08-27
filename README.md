@@ -780,3 +780,4 @@ t-feature live-streaming
 [feat] : fixed voice-command-betting augmented-reality-betting
 [update] : updated 3036
 [fix] : fixed user-account-security bet-slip-errors
+[update] : updated 3028
