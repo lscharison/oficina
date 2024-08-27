@@ -481,3 +481,4 @@ import css from './style.scss';
 [feat] : fixed mobile-app affiliate-program
 [fix] : fixed user-account-security bet-slip-errors
 [fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 3003
