@@ -756,3 +756,4 @@ t-feature live-streaming
 [hotfix] : fixed 3027
 [feat] : fixed bonus-system customer-support
 [fix] : fixed data-integrity user-profile
+[update] : updated 3034
