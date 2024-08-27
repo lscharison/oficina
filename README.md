@@ -421,3 +421,4 @@ import css from './style.scss';
 [hotfix] : fixed 3013
 [fix] : fixed match-schedule bet-history
 [update] : updated 2994
+[fix] : fixed user-interface-improvements system-stability
