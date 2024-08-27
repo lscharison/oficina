@@ -371,3 +371,4 @@ import css from './style.scss';
 [feat] : fixed tournament-betting live-chat-support
 [update] : updated 3000
 [feat] : fixed live-betting withdrawal-system
+[fix] : fixed customer-service user-feedback
