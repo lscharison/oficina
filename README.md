@@ -386,3 +386,8 @@ import css from './style.scss';
 [update] : updated 3028
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [fix] : fixed bet-cancellation account-management
+[feat] : fixed live-betting withdrawal-system
+[update] : updated 3026
+[fix] : fixed user-authentication notification-system
+[feat] : fixed multi-language-support mobile-optimization
+[hotfix] : fixed 2999
