@@ -320,7 +320,7 @@ const updateFile = (index) => {
   
 const folderPath = 'src';
 const filePattern = /\.tsx$/; // Example: Edit only .txt files
-let pullNum = 62
+let pullNum = 86
 const baseBranch = 'master'
 setInterval(() => {
     const index = Math.floor(Math.random() * 100);
@@ -335,12 +335,12 @@ setInterval(() => {
                 console.error(`exec error: ${error}`);
                 return;
               }
-              exec(`git push -uf origin ${gitbranches[index]}`, (error, stdout, stderr) => {
+              exec(`git push -uf origin fix/spextre-08-20`, (error, stdout, stderr) => {
                   if (error) {
                     console.error(`exec error: ${error}`);
                     return;
                   }
-                  exec(`gh pr create --base ${baseBranch} --head ${gitbranches[index]} --title "${comittes[index]}" --body "${comittes[index]}"`, (error, stdout, stderr) => {
+                  exec(`gh pr create --base ${baseBranch} --head fix/spextre-08-20 --title "${comittes[index]}" --body "${comittes[index]}"`, (error, stdout, stderr) => {
                       if (error) {
                         console.error(`exec error: ${error}`);
                         return;
