@@ -744,3 +744,4 @@ t-feature live-streaming
 [feat] : fixed in-play-betting virtual-sports
 [hotfix] : fixed 3007
 [feat] : fixed cash-out-feature live-streaming
+[update] : updated 3002
