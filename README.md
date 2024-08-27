@@ -356,3 +356,4 @@ import css from './style.scss';
 [feat] : fixed game-result
 [fix] : fixed system-performance user-experience
 [update] : updated 2996
+[fix] : fixed user-verification bet-slip-validation
