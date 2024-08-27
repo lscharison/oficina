@@ -449,3 +449,4 @@ import css from './style.scss';
 [fix] : fixed user-authentication notification-system
 [hotfix] : fixed 3011
 [update] : updated 3016
+[feat] : fixed mobile-app affiliate-program
