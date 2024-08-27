@@ -546,3 +546,9 @@ import css from './style.scss';
 [feat] : fixed mobile-app affiliate-program
 [feat] : fixed live-betting withdrawal-system
 [update] : updated 2994
+[fix] : fixed bet-slip-management user-interface
+[hotfix] : fixed 3015
+[fix] : fixed account-verification deposit-methods
+[hotfix] : fixed 2993
+[hotfix] : fixed 3021
+[hotfix] : fixed 3005
