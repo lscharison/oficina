@@ -632,3 +632,7 @@ t-feature live-streaming
 [feat] : fixed live-betting withdrawal-system
 [hotfix] : fixed 3021
 [fix] : fixed user-authentication notification-system
+[fix] : fixed bet-slip-errors payment-processing
+[hotfix] : fixed 2997
+[feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3035
