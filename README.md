@@ -398,3 +398,7 @@ import css from './style.scss';
 [update] : updated 3014
 [fix] : fixed user-feedback-system payment-security
 [update] : updated 3016
+[hotfix] : fixed 3021
+[update] : updated 3016
+[update] : updated 3034
+[hotfix] : fixed 3015
