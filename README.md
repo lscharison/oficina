@@ -372,3 +372,11 @@ import css from './style.scss';
 [update] : updated 3000
 [feat] : fixed live-betting withdrawal-system
 [fix] : fixed customer-service user-feedback
+[feat] : fixed artificial-intelligence-predictions social-betting-features
+[fix] : fixed bet-slip-errors payment-processing
+[update] : updated 3006
+[feat] : fixed live-betting withdrawal-system
+[update] : updated 3036
+[hotfix] : fixed 3007
+[fix] : fixed account-verification deposit-methods
+[fix] : fixed user-account-security bet-slip-errors
