@@ -437,3 +437,4 @@ import css from './style.scss';
 [update] : updated 3012
 [hotfix] : fixed 3027
 [fix] : fixed customer-service user-feedback
+[fix] : fixed user-verification bet-slip-validation
