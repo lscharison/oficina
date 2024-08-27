@@ -491,3 +491,4 @@ import css from './style.scss';
 [fix] : fixed data-integrity user-profile
 [fix] : fixed bet-slip-management user-interface
 [fix] : fixed odds-calculation user-balance
+[update] : updated 3004
