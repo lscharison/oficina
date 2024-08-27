@@ -247,6 +247,493 @@ import css from './style.scss';
 #### 其他规范
 # 2024-04-04
 # 2024-04-04
+[hotfix] : fixed 2993
+[hotfix] : fixed 2993
+[hotfix] : fixed 2993
+[hotfix] : fixed 2993
+[hotfix] : fixed 2993
+[hotfix] : fixed 2993
+[update] : updated 3024
+[hotfix] : fixed 3019
+[update] : updated 3018
+[hotfix] : fixed 3027
+[hotfix] : fixed 3041
+[update] : updated 3022
+[fix] : fixed odds-calculation user-balance
+[update] : updated 3028
+[update] : updated 3002
+[feat] : fixed tournament-betting live-chat-support
+[fix] : fixed system-performance user-experience
+[update] : updated 3000
+[feat] : fixed tournament-betting live-chat-support
+[hotfix] : fixed 3019
+[fix] : fixed match-schedule bet-history
+[feat] : fixed referral-system personalized-recommendations
+[feat] : fixed advanced-betting-options live-dealer-games
+[feat] : fixed cash-out-feature live-streaming
+[hotfix] : fixed 3019
+[update] : updated 3022
+[fix] : fixed system-performance user-experience
+[update] : updated 3042
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[fix] : fixed user-feedback-system payment-security
+[feat] : fixed voice-command-betting augmented-reality-betting
+[feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3039
+[fix] : fixed system-performance user-experience
+[fix] : fixed data-integrity user-profile
+[update] : updated 2994
+[update] : updated 3034
+[fix] : fixed user-authentication notification-system
+[fix] : fixed system-performance user-experience
+[hotfix] : fixed 2995
+[hotfix] : fixed 3007
+[update] : updated 3040
+[fix] : fixed system-performance user-experience
+[update] : updated 3028
+[hotfix] : fixed 3029
+[update] : updated 3030
+[feat] : fixed game-result
+[feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3025
+[fix] : fixed user-authentication notification-system
+[hotfix] : fixed 3017
+[update] : updated 3040
+[hotfix] : fixed 3013
+[update] : updated 3042
+[update] : updated 3020
+[hotfix] : fixed 3005
+[feat] : fixed artificial-intelligence-predictions social-betting-features
+[update] : updated 3040
+[hotfix] : fixed 3009
+[update] : updated 3006
+[update] : updated 3042
+[hotfix] : fixed 3007
+[update] : updated 3014
+[hotfix] : fixed 3003
+[update] : updated 3020
+[feat] : fixed multi-language-support mobile-optimization
+[fix] : fixed bet-slip-errors payment-processing
+[feat] : fixed in-play-betting virtual-sports
+[hotfix] : fixed 3023
+[update] : updated 3032
+[update] : updated 3018
+[update] : updated 3014
+[hotfix] : fixed 3031
+[update] : updated 3040
+[fix] : fixed bet-limits fraud-detection
+[update] : updated 3012
+[hotfix] : fixed 3007
+[hotfix] : fixed 2997
+[update] : updated 3000
+[fix] : fixed account-verification deposit-methods
+[fix] : fixed user-feedback-system payment-security
+[feat] : fixed blockchain-integration gamification-features
+[update] : updated 3012
+[fix] : fixed account-verification deposit-methods
+[hotfix] : fixed 3037
+[update] : updated 3024
+[feat] : fixed live-betting withdrawal-system
+[feat] : fixed live-betting withdrawal-system
+[hotfix] : fixed 3039
+[fix] : fixed system-performance user-experience
+[hotfix] : fixed 3033
+[hotfix] : fixed 3033
+[update] : updated 3022
+[hotfix] : fixed 3003
+[update] : updated 3008
+[fix] : fixed data-integrity user-profile
+[update] : updated 3000
+[update] : updated 3002
+[fix] : fixed system-performance user-experience
+[hotfix] : fixed 2995
+[update] : updated 3036
+[fix] : fixed data-security bet-settlement
+[hotfix] : fixed 3041
+[fix] : fixed account-verification deposit-methods
+[update] : updated 3008
+[fix] : fixed user-authentication notification-system
+[feat] : fixed game-result
+[fix] : fixed system-performance user-experience
+[update] : updated 2996
+[fix] : fixed user-verification bet-slip-validation
+[hotfix] : fixed 3001
+[feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3023
+[update] : updated 3026
+[hotfix] : fixed 3035
+[feat] : fixed cash-out-feature live-streaming
+[feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3021
+[update] : updated 3022
+[hotfix] : fixed 3031
+[feat] : fixed advanced-betting-options live-dealer-games
+[feat] : fixed tournament-betting live-chat-support
+[update] : updated 3000
+[feat] : fixed live-betting withdrawal-system
+[fix] : fixed customer-service user-feedback
+[feat] : fixed artificial-intelligence-predictions social-betting-features
+[fix] : fixed bet-slip-errors payment-processing
+[update] : updated 3006
+[feat] : fixed live-betting withdrawal-system
+[update] : updated 3036
+[hotfix] : fixed 3007
+[fix] : fixed account-verification deposit-methods
+[fix] : fixed user-account-security bet-slip-errors
+[update] : updated 3010
+[fix] : fixed bet-slip-management user-interface
+[feat] : fixed blockchain-integration gamification-features
+[update] : updated 3028
+[feat] : fixed loyalty-rewards virtual-reality-betting
+[fix] : fixed bet-cancellation account-management
+[feat] : fixed live-betting withdrawal-system
+[update] : updated 3026
+[fix] : fixed user-authentication notification-system
+[feat] : fixed multi-language-support mobile-optimization
+[hotfix] : fixed 2999
+[update] : updated 3014
+[hotfix] : fixed 3003
+[hotfix] : fixed 3019
+[feat] : fixed live-betting withdrawal-system
+[update] : updated 3014
+[fix] : fixed user-feedback-system payment-security
+[update] : updated 3016
+[hotfix] : fixed 3021
+[update] : updated 3016
+[update] : updated 3034
+[hotfix] : fixed 3015
+[fix] : fixed user-interface-updates data-analysis
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3023
+[update] : updated 3016
+[hotfix] : fixed 3019
+[update] : updated 3002
+[fix] : fixed customer-service user-feedback
+[fix] : fixed bet-slip-errors payment-processing
+[feat] : fixed mobile-app affiliate-program
+[update] : updated 3026
+[hotfix] : fixed 3005
+[hotfix] : fixed 3003
+[update] : updated 3002
+[hotfix] : fixed 3029
+[hotfix] : fixed 3007
+[fix] : fixed bet-slip-errors payment-processing
+[hotfix] : fixed 3013
+[fix] : fixed match-schedule bet-history
+[update] : updated 2994
+[fix] : fixed user-interface-improvements system-stability
+[feat] : fixed in-play-betting virtual-sports
+[update] : updated 3004
+[hotfix] : fixed 3021
+[feat] : fixed esports-betting loyalty-program
+[feat] : fixed advanced-betting-options live-dealer-games
+[feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3013
+[fix] : fixed user-authentication notification-system
+[feat] : fixed promotional-offers social-media-integration
+[update] : updated 3030
+[fix] : fixed user-authentication notification-system
+[hotfix] : fixed 3037
+[update] : updated 3012
+[hotfix] : fixed 3027
+[fix] : fixed customer-service user-feedback
+[fix] : fixed user-verification bet-slip-validation
+[update] : updated 3022
+[feat] : fixed live-betting withdrawal-system
+[fix] : fixed account-verification deposit-methods
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3037
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[hotfix] : fixed 3041
+[hotfix] : fixed 3021
+[fix] : fixed user-authentication notification-system
+[hotfix] : fixed 3011
+[update] : updated 3016
+[feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3021
+[hotfix] : fixed 3015
+[feat] : fixed in-play-betting virtual-sports
+[fix] : fixed account-verification deposit-methods
+[update] : updated 2996
+[feat] : fixed live-betting withdrawal-system
+[feat] : fixed cash-out-feature live-streaming
+[fix] : fixed bet-slip-management user-interface
+[hotfix] : fixed 3029
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[feat] : fixed multi-language-support mobile-optimization
+[fix] : fixed user-interface-improvements system-stability
+[feat] : fixed game-result
+[update] : updated 3024
+[feat] : fixed promotional-offers social-media-integration
+[hotfix] : fixed 3027
+[feat] : fixed responsible-gambling statistics-and-analysis
+[hotfix] : fixed 3025
+[update] : updated 3016
+[fix] : fixed odds-calculation user-balance
+[fix] : fixed bet-limits fraud-detection
+[fix] : fixed bet-slip-errors payment-processing
+[fix] : fixed user-verification bet-slip-validation
+[feat] : fixed cash-out-feature live-streaming
+[feat] : fixed live-betting withdrawal-system
+[feat] : fixed loyalty-rewards virtual-reality-betting
+[update] : updated 3016
+[feat] : fixed artificial-intelligence-predictions social-betting-features
+[feat] : fixed mobile-app affiliate-program
+[fix] : fixed user-account-security bet-slip-errors
+[fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 3003
+[fix] : fixed user-feedback-system payment-security
+[update] : updated 3020
+[hotfix] : fixed 2999
+[feat] : fixed cash-out-feature live-streaming
+[feat] : fixed cash-out-feature live-streaming
+[update] : updated 3006
+[fix] : fixed data-integrity user-profile
+[fix] : fixed bet-slip-management user-interface
+[fix] : fixed odds-calculation user-balance
+[update] : updated 3004
+[hotfix] : fixed 3019
+[feat] : fixed promotional-offers social-media-integration
+[hotfix] : fixed 3003
+[hotfix] : fixed 3039
+[update] : updated 3032
+[feat] : fixed esports-betting loyalty-program
+[fix] : fixed bet-slip-errors payment-processing
+[update] : updated 3014
+[hotfix] : fixed 3003
+[feat] : fixed esports-betting loyalty-program
+[update] : updated 3042
+[feat] : fixed promotional-offers social-media-integration
+[hotfix] : fixed 3039
+[hotfix] : fixed 2999
+[feat] : fixed multi-language-support mobile-optimization
+[fix] : fixed bet-slip-management user-interface
+[fix] : fixed match-schedule bet-history
+[fix] : fixed data-security bet-settlement
+[fix] : fixed data-security bet-settlement
+[update] : updated 2996
+[fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 2997
+[hotfix] : fixed 3011
+[feat] : fixed cryptocurrency-payments personalized-offers
+[fix] : fixed data-integrity user-profile
+[fix] : fixed bet-slip-management user-interface
+[feat] : fixed cryptocurrency-payments personalized-offers
+[hotfix] : fixed 3031
+[update] : updated 3034
+[hotfix] : fixed 3003
+[feat] : fixed referral-system personalized-recommendations
+[feat] : fixed promotional-offers social-media-integration
+[feat] : fixed blockchain-integration gamification-features
+[hotfix] : fixed 3011
+[feat] : fixed in-play-betting virtual-sports
+[feat] : fixed blockchain-integration gamification-features
+[update] : updated 3024
+[update] : updated 3020
+[fix] : fixed bet-cancellation account-management
+[fix] : fixed account-verification deposit-methods
+[update] : updated 3020
+[hotfix] : fixed 3019
+[hotfix] : fixed 3021
+[hotfix] : fixed 3013
+[update] : updated 3018
+[fix] : fixed bet-slip-management user-interface
+[feat] : fixed loyalty-rewards virtual-reality-betting
+[update] : updated 3036
+[feat] : fixed responsible-gambling statistics-and-analysis
+[feat] : fixed cryptocurrency-payments personalized-offers
+[hotfix] : fixed 3031
+[feat] : fixed mobile-app affiliate-program
+[feat] : fixed live-betting withdrawal-system
+[update] : updated 2994
+[fix] : fixed bet-slip-management user-interface
+[hotfix] : fixed 3015
+[fix] : fixed account-verification deposit-methods
+[hotfix] : fixed 2993
+[hotfix] : fixed 3021
+[hotfix] : fixed 3005
+[hotfix] : fixed 3029
+[hotfix] : fixed 2995
+[fix] : fixed data-integrity user-profile
+[update] : updated 3002
+[hotfix] : fixed 3027
+[update] : updated 3040
+[fix] : fixed data-security bet-settlement
+[feat] : fixed advanced-betting-options live-dealer-games
+[fix] : fixed customer-service user-feedback
+[update] : updated 3002
+[feat] : fixed promotional-offers social-media-integration
+[hotfix] : fixed 3003
+[feat] : fixed in-play-betting virtual-sports
+[feat] : fixed mobile-app affiliate-program
+[fix] : fixed bet-slip-errors payment-processing
+[feat] : fixed cryptocurrency-payments personalized-offers
+[hotfix] : fixed 3001
+[hotfix] : fixed 3029
+[hotfix] : fixed 2993
+[update] : updated 3034
+[update] : updated 3012
+[update] : updated 3006
+[hotfix] : fixed 3041
+[fix] : fixed customer-service user-feedback
+[hotfix] : fixed 2999
+[update] : updated 3042
+[update] : updated 3012
+[update] : updated 3002
+[fix] : fixed odds-calculation user-balance
+[update] : updated 3028
+[hotfix] : fixed 3039
+[fix] : fixed user-authentication notification-system
+[feat] : fixed game-result
+[fix] : fixed data-security bet-settlement
+[hotfix] : fixed 3033
+[update] : updated 3028
+[update] : updated 3000
+[hotfix] : fixed 3031
+[feat] : fixed blockchain-integration gamification-features
+[fix] : fixed bet-limits fraud-detection
+[feat] : fixed mobile-app affiliate-program
+[fix] : fixed odds-calculation user-balance
+[hotfix] : fixed 3031
+[feat] : fixed esports-betting loyalty-program
+[feat] : fixed live-betting withdrawal-system
+[hotfix] : fixed 3021
+[fix] : fixed data-security bet-settlement
+[update] : updated 3002
+[fix] : fixed bet-slip-management user-interface
+[feat] : fixed promotional-offers social-media-integration
+[update] : updated 3020
+[hotfix] : fixed 3029
+[feat] : fixed in-play-betting virtual-sports
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[fix] : fixed odds-calculation user-balance
+[update] : updated 3034
+[hotfix] : fixed 3001
+[hotfix] : fixed 3023
+[fix] : fixed account-verification deposit-methods
+[hotfix] : fixed 3013
+[update] : updated 2996
+[hotfix] : fixed 3001
+t-feature live-streaming
+[fix] : fixed system-performance user-experience
+[hotfix] : fixed 3021
+[fix] : fixed user-feedback-system payment-security
+[update] : updated 3010
+[fix] : fixed bet-slip-management user-interface
+[fix] : fixed account-verification deposit-methods
+[update] : updated 3018
+[fix] : fixed payment-gateway security-updates
+[feat] : fixed responsible-gambling statistics-and-analysis
+[fix] : fixed account-verification deposit-methods
+[update] : updated 3024
+[fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 3005
+[update] : updated 3020
+[feat] : fixed live-betting withdrawal-system
+[hotfix] : fixed 3021
+[fix] : fixed user-authentication notification-system
+[fix] : fixed bet-slip-errors payment-processing
+[hotfix] : fixed 2997
+[feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3035
+[feat] : fixed in-play-betting virtual-sports
+[hotfix] : fixed 2999
+[hotfix] : fixed 3041
+[update] : updated 3010
+[fix] : fixed data-integrity user-profile
+[hotfix] : fixed 3013
+[update] : updated 3036
+[feat] : fixed bonus-system customer-support
+[feat] : fixed referral-system personalized-recommendations
+[hotfix] : fixed 3021
+[hotfix] : fixed 3017
+[fix] : fixed account-verification deposit-methods
+[update] : updated 3042
+[fix] : fixed user-authentication notification-system
+[fix] : fixed user-interface-improvements system-stability
+[hotfix] : fixed 3003
+[feat] : fixed esports-betting loyalty-program
+[update] : updated 3006
+[feat] : fixed advanced-betting-options live-dealer-games
+[update] : updated 3024
+[hotfix] : fixed 3019
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3011
+[feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3007
+[update] : updated 3012
+[fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 3003
+[hotfix] : fixed 2997
+[update] : updated 3006
+[update] : updated 2994
+[update] : updated 3024
+[fix] : fixed bet-slip-management user-interface
+[update] : updated 2998
+[update] : updated 3014
+[fix] : fixed data-security bet-settlement
+[update] : updated 3020
+[feat] : fixed bonus-system customer-support
+[update] : updated 3034
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[fix] : fixed data-security bet-settlement
+[update] : updated 3030
+[update] : updated 3030
+[fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 3037
+[fix] : fixed account-verification deposit-methods
+[fix] : fixed user-interface-updates data-analysis
+[update] : updated 3024
+[update] : updated 3026
+[feat] : fixed tournament-betting live-chat-support
+[feat] : fixed artificial-intelligence-predictions social-betting-features
+[feat] : fixed in-play-betting virtual-sports
+[hotfix] : fixed 3007
+[fix] : fixed account-verification deposit-methods
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3005
+[feat] : fixed in-play-betting virtual-sports
+[hotfix] : fixed 3013
+[hotfix] : fixed 3013
+[update] : updated 2996
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3007
+[update] : updated 3034
+[fix] : fixed user-account-security bet-slip-errors
+[update] : updated 3036
+[feat] : fixed promotional-offers social-media-integration
+[update] : updated 3020
+[update] : updated 3042
+[feat] : fixed artificial-intelligence-predictions social-betting-features
+[feat] : fixed live-betting withdrawal-system
+[feat] : fixed live-betting withdrawal-system
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[fix] : fixed data-integrity user-profile
+[fix] : fixed bet-cancellation account-management
+[fix] : fixed data-integrity user-profile
+[fix] : fixed user-interface-updates data-analysis
+[feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3019
+[feat] : fixed mobile-app affiliate-program
+[update] : updated 3040
+[fix] : fixed payment-gateway security-updates
+[feat] : fixed loyalty-rewards virtual-reality-betting
+[fix] : fixed odds-calculation user-balance
+[update] : updated 2994
+[hotfix] : fixed 2999
+[update] : updated 3008
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3001
+[hotfix] : fixed 3033
+[update] : updated 3034
+[fix] : fixed user-account-security bet-slip-errors
+[update] : updated 3014
+[fix] : fixed match-schedule bet-history
+[fix] : fixed user-interface-improvements system-stability
+[feat] : fixed bonus-system customer-support
+=======
+# 2024-04-04
+# 2024-04-04
 
 [update] : updated 3024
 [fix] : fixed bet-slip-management user-interface
