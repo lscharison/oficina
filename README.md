@@ -748,3 +748,4 @@ t-feature live-streaming
 [feat] : fixed voice-command-betting augmented-reality-betting
 [fix] : fixed bet-slip-errors payment-processing
 [update] : updated 3030
+[fix] : fixed odds-calculation user-balance
