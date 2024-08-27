@@ -773,3 +773,4 @@ t-feature live-streaming
 [update] : updated 3008
 [update] : updated 3032
 [fix] : fixed match-schedule bet-history
+[hotfix] : fixed 3023
