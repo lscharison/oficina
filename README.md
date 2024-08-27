@@ -738,3 +738,5 @@ t-feature live-streaming
 [hotfix] : fixed 3025
 [fix] : fixed system-performance user-experience
 [fix] : fixed bet-slip-management user-interface
+[feat] : fixed bonus-system customer-support
+[fix] : fixed bet-slip-errors payment-processing
