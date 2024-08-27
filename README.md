@@ -432,3 +432,5 @@ import css from './style.scss';
 [fix] : fixed user-authentication notification-system
 [feat] : fixed promotional-offers social-media-integration
 [update] : updated 3030
+[fix] : fixed user-authentication notification-system
+[hotfix] : fixed 3037
