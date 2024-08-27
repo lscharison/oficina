@@ -582,3 +582,8 @@ import css from './style.scss';
 [update] : updated 3002
 [fix] : fixed odds-calculation user-balance
 [update] : updated 3028
+[hotfix] : fixed 3039
+[fix] : fixed user-authentication notification-system
+[feat] : fixed game-result
+[fix] : fixed data-security bet-settlement
+[hotfix] : fixed 3033
