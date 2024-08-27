@@ -769,3 +769,4 @@ t-feature live-streaming
 [feat] : fixed promotional-offers social-media-integration
 [update] : updated 3000
 [fix] : fixed user-verification bet-slip-validation
+[fix] : fixed match-schedule bet-history
