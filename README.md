@@ -445,3 +445,4 @@ import css from './style.scss';
 [hotfix] : fixed 3037
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
 [hotfix] : fixed 3041
+[hotfix] : fixed 3021
