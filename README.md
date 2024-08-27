@@ -342,3 +342,4 @@ import css from './style.scss';
 [update] : updated 3022
 [hotfix] : fixed 3003
 [update] : updated 3008
+[fix] : fixed data-integrity user-profile
