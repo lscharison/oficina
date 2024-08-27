@@ -781,3 +781,5 @@ t-feature live-streaming
 [update] : updated 3036
 [fix] : fixed user-account-security bet-slip-errors
 [update] : updated 3028
+[hotfix] : fixed 3007
+[fix] : fixed data-security bet-settlement
