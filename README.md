@@ -552,3 +552,5 @@ import css from './style.scss';
 [hotfix] : fixed 2993
 [hotfix] : fixed 3021
 [hotfix] : fixed 3005
+[hotfix] : fixed 3029
+[hotfix] : fixed 2995
