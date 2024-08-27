@@ -503,3 +503,9 @@ import css from './style.scss';
 [hotfix] : fixed 3003
 [feat] : fixed esports-betting loyalty-program
 [update] : updated 3042
+[feat] : fixed promotional-offers social-media-integration
+[hotfix] : fixed 3039
+[hotfix] : fixed 2999
+[feat] : fixed multi-language-support mobile-optimization
+[fix] : fixed bet-slip-management user-interface
+[fix] : fixed match-schedule bet-history
