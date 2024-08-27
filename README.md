@@ -323,3 +323,12 @@ import css from './style.scss';
 [update] : updated 3040
 [fix] : fixed bet-limits fraud-detection
 [update] : updated 3012
+[hotfix] : fixed 3007
+[hotfix] : fixed 2997
+[update] : updated 3000
+[fix] : fixed account-verification deposit-methods
+[fix] : fixed user-feedback-system payment-security
+[feat] : fixed blockchain-integration gamification-features
+[update] : updated 3012
+[fix] : fixed account-verification deposit-methods
+[hotfix] : fixed 3037
