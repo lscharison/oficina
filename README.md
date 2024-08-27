@@ -380,3 +380,4 @@ import css from './style.scss';
 [hotfix] : fixed 3007
 [fix] : fixed account-verification deposit-methods
 [fix] : fixed user-account-security bet-slip-errors
+[update] : updated 3010
