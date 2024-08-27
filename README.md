@@ -459,3 +459,5 @@ import css from './style.scss';
 [feat] : fixed cash-out-feature live-streaming
 [fix] : fixed bet-slip-management user-interface
 [hotfix] : fixed 3029
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[feat] : fixed multi-language-support mobile-optimization
