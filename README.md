@@ -644,3 +644,6 @@ t-feature live-streaming
 [hotfix] : fixed 3013
 [update] : updated 3036
 [feat] : fixed bonus-system customer-support
+[feat] : fixed referral-system personalized-recommendations
+[hotfix] : fixed 3021
+[hotfix] : fixed 3017
