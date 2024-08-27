@@ -558,3 +558,14 @@ import css from './style.scss';
 [update] : updated 3002
 [hotfix] : fixed 3027
 [update] : updated 3040
+[fix] : fixed data-security bet-settlement
+[feat] : fixed advanced-betting-options live-dealer-games
+[fix] : fixed customer-service user-feedback
+[update] : updated 3002
+[feat] : fixed promotional-offers social-media-integration
+[hotfix] : fixed 3003
+[feat] : fixed in-play-betting virtual-sports
+[feat] : fixed mobile-app affiliate-program
+[fix] : fixed bet-slip-errors payment-processing
+[feat] : fixed cryptocurrency-payments personalized-offers
+[hotfix] : fixed 3001
