@@ -461,3 +461,4 @@ import css from './style.scss';
 [hotfix] : fixed 3029
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
 [feat] : fixed multi-language-support mobile-optimization
+[fix] : fixed user-interface-improvements system-stability
