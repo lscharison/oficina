@@ -661,3 +661,12 @@ t-feature live-streaming
 [hotfix] : fixed 3011
 [feat] : fixed mobile-app affiliate-program
 [hotfix] : fixed 3007
+[update] : updated 3012
+[fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 3003
+[hotfix] : fixed 2997
+[update] : updated 3006
+[update] : updated 2994
+[update] : updated 3024
+[fix] : fixed bet-slip-management user-interface
+[update] : updated 2998
