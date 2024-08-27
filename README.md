@@ -797,3 +797,5 @@ t-feature live-streaming
 [feat] : fixed esports-betting loyalty-program
 [fix] : fixed data-security bet-settlement
 [update] : updated 3006
+[fix] : fixed payment-gateway security-updates
+[update] : updated 3026
