@@ -537,3 +537,6 @@ import css from './style.scss';
 [hotfix] : fixed 3021
 [hotfix] : fixed 3013
 [update] : updated 3018
+[fix] : fixed bet-slip-management user-interface
+[feat] : fixed loyalty-rewards virtual-reality-betting
+[update] : updated 3036
