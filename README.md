@@ -799,3 +799,9 @@ t-feature live-streaming
 [update] : updated 3006
 [fix] : fixed payment-gateway security-updates
 [update] : updated 3026
+[feat] : fixed cash-out-feature live-streaming
+[hotfix] : fixed 3027
+[fix] : fixed match-schedule bet-history
+[feat] : fixed cash-out-feature live-streaming
+[fix] : fixed user-verification bet-slip-validation
+[update] : updated 3040
