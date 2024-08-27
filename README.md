@@ -402,3 +402,4 @@ import css from './style.scss';
 [update] : updated 3016
 [update] : updated 3034
 [hotfix] : fixed 3015
+[fix] : fixed user-interface-updates data-analysis
