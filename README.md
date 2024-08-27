@@ -391,3 +391,10 @@ import css from './style.scss';
 [fix] : fixed user-authentication notification-system
 [feat] : fixed multi-language-support mobile-optimization
 [hotfix] : fixed 2999
+[update] : updated 3014
+[hotfix] : fixed 3003
+[hotfix] : fixed 3019
+[feat] : fixed live-betting withdrawal-system
+[update] : updated 3014
+[fix] : fixed user-feedback-system payment-security
+[update] : updated 3016
