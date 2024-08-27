@@ -485,3 +485,5 @@ import css from './style.scss';
 [fix] : fixed user-feedback-system payment-security
 [update] : updated 3020
 [hotfix] : fixed 2999
+[feat] : fixed cash-out-feature live-streaming
+[feat] : fixed cash-out-feature live-streaming
