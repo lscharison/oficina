@@ -480,3 +480,4 @@ import css from './style.scss';
 [feat] : fixed artificial-intelligence-predictions social-betting-features
 [feat] : fixed mobile-app affiliate-program
 [fix] : fixed user-account-security bet-slip-errors
+[fix] : fixed bet-cancellation account-management
