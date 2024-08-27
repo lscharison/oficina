@@ -746,3 +746,5 @@ t-feature live-streaming
 [feat] : fixed cash-out-feature live-streaming
 [update] : updated 3002
 [feat] : fixed voice-command-betting augmented-reality-betting
+[fix] : fixed bet-slip-errors payment-processing
+[update] : updated 3030
