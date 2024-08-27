@@ -457,3 +457,4 @@ import css from './style.scss';
 [update] : updated 2996
 [feat] : fixed live-betting withdrawal-system
 [feat] : fixed cash-out-feature live-streaming
+[fix] : fixed bet-slip-management user-interface
