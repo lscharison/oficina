@@ -525,3 +525,15 @@ import css from './style.scss';
 [feat] : fixed referral-system personalized-recommendations
 [feat] : fixed promotional-offers social-media-integration
 [feat] : fixed blockchain-integration gamification-features
+[hotfix] : fixed 3011
+[feat] : fixed in-play-betting virtual-sports
+[feat] : fixed blockchain-integration gamification-features
+[update] : updated 3024
+[update] : updated 3020
+[fix] : fixed bet-cancellation account-management
+[fix] : fixed account-verification deposit-methods
+[update] : updated 3020
+[hotfix] : fixed 3019
+[hotfix] : fixed 3021
+[hotfix] : fixed 3013
+[update] : updated 3018
