@@ -569,3 +569,16 @@ import css from './style.scss';
 [fix] : fixed bet-slip-errors payment-processing
 [feat] : fixed cryptocurrency-payments personalized-offers
 [hotfix] : fixed 3001
+[hotfix] : fixed 3029
+[hotfix] : fixed 2993
+[update] : updated 3034
+[update] : updated 3012
+[update] : updated 3006
+[hotfix] : fixed 3041
+[fix] : fixed customer-service user-feedback
+[hotfix] : fixed 2999
+[update] : updated 3042
+[update] : updated 3012
+[update] : updated 3002
+[fix] : fixed odds-calculation user-balance
+[update] : updated 3028
