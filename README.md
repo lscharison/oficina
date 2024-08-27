@@ -784,3 +784,5 @@ t-feature live-streaming
 [hotfix] : fixed 3007
 [fix] : fixed data-security bet-settlement
 [feat] : fixed artificial-intelligence-predictions social-betting-features
+[hotfix] : fixed 3025
+[fix] : fixed payment-gateway security-updates
