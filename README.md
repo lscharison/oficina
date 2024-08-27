@@ -789,3 +789,8 @@ t-feature live-streaming
 [update] : updated 3028
 [hotfix] : fixed 2997
 [hotfix] : fixed 3027
+[update] : updated 3034
+[fix] : fixed data-security bet-settlement
+[feat] : fixed responsible-gambling statistics-and-analysis
+[fix] : fixed user-verification bet-slip-validation
+[update] : updated 3038
