@@ -740,3 +740,4 @@ t-feature live-streaming
 [fix] : fixed bet-slip-management user-interface
 [feat] : fixed bonus-system customer-support
 [fix] : fixed bet-slip-errors payment-processing
+[fix] : fixed odds-calculation user-balance
