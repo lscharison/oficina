@@ -381,3 +381,4 @@ import css from './style.scss';
 [fix] : fixed account-verification deposit-methods
 [fix] : fixed user-account-security bet-slip-errors
 [update] : updated 3010
+[fix] : fixed bet-slip-management user-interface
