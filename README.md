@@ -742,3 +742,4 @@ t-feature live-streaming
 [fix] : fixed bet-slip-errors payment-processing
 [fix] : fixed odds-calculation user-balance
 [feat] : fixed in-play-betting virtual-sports
+[hotfix] : fixed 3007
