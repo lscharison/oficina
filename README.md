@@ -745,3 +745,4 @@ t-feature live-streaming
 [hotfix] : fixed 3007
 [feat] : fixed cash-out-feature live-streaming
 [update] : updated 3002
+[feat] : fixed voice-command-betting augmented-reality-betting
