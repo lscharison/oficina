@@ -365,3 +365,9 @@ import css from './style.scss';
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed mobile-app affiliate-program
 [hotfix] : fixed 3021
+[update] : updated 3022
+[hotfix] : fixed 3031
+[feat] : fixed advanced-betting-options live-dealer-games
+[feat] : fixed tournament-betting live-chat-support
+[update] : updated 3000
+[feat] : fixed live-betting withdrawal-system
