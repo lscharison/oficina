@@ -808,3 +808,5 @@ t-feature live-streaming
 [update] : updated 3034
 [hotfix] : fixed 3027
 [feat] : fixed blockchain-integration gamification-features
+[update] : updated 3006
+[hotfix] : fixed 3023
