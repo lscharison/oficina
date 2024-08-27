@@ -736,3 +736,4 @@ t-feature live-streaming
 [hotfix] : fixed 3029
 [hotfix] : fixed 2997
 [hotfix] : fixed 3025
+[fix] : fixed system-performance user-experience
