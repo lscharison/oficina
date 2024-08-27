@@ -683,3 +683,5 @@ t-feature live-streaming
 [hotfix] : fixed 3037
 [fix] : fixed account-verification deposit-methods
 [fix] : fixed user-interface-updates data-analysis
+[update] : updated 3024
+[update] : updated 3026
