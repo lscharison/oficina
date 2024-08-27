@@ -439,3 +439,4 @@ import css from './style.scss';
 [fix] : fixed customer-service user-feedback
 [fix] : fixed user-verification bet-slip-validation
 [update] : updated 3022
+[feat] : fixed live-betting withdrawal-system
