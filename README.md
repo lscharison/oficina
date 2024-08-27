@@ -817,3 +817,9 @@ t-feature live-streaming
 [update] : updated 3006
 [update] : updated 3024
 [fix] : fixed user-interface-updates data-analysis
+[update] : updated 3036
+[fix] : fixed user-verification bet-slip-validation
+[update] : updated 3030
+[update] : updated 3042
+[update] : updated 3040
+[feat] : fixed live-betting withdrawal-system
