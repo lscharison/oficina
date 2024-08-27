@@ -779,3 +779,4 @@ t-feature live-streaming
 [feat] : fixed bonus-system customer-support
 [feat] : fixed voice-command-betting augmented-reality-betting
 [update] : updated 3036
+[fix] : fixed user-account-security bet-slip-errors
