@@ -647,3 +647,17 @@ t-feature live-streaming
 [feat] : fixed referral-system personalized-recommendations
 [hotfix] : fixed 3021
 [hotfix] : fixed 3017
+[fix] : fixed account-verification deposit-methods
+[update] : updated 3042
+[fix] : fixed user-authentication notification-system
+[fix] : fixed user-interface-improvements system-stability
+[hotfix] : fixed 3003
+[feat] : fixed esports-betting loyalty-program
+[update] : updated 3006
+[feat] : fixed advanced-betting-options live-dealer-games
+[update] : updated 3024
+[hotfix] : fixed 3019
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3011
+[feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3007
