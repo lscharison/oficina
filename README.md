@@ -424,3 +424,4 @@ import css from './style.scss';
 [fix] : fixed user-interface-improvements system-stability
 [feat] : fixed in-play-betting virtual-sports
 [update] : updated 3004
+[hotfix] : fixed 3021
