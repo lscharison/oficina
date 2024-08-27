@@ -471,3 +471,4 @@ import css from './style.scss';
 [update] : updated 3016
 [fix] : fixed odds-calculation user-balance
 [fix] : fixed bet-limits fraud-detection
+[fix] : fixed bet-slip-errors payment-processing
