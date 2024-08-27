@@ -351,3 +351,8 @@ import css from './style.scss';
 [fix] : fixed data-security bet-settlement
 [hotfix] : fixed 3041
 [fix] : fixed account-verification deposit-methods
+[update] : updated 3008
+[fix] : fixed user-authentication notification-system
+[feat] : fixed game-result
+[fix] : fixed system-performance user-experience
+[update] : updated 2996
