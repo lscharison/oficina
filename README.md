@@ -464,3 +464,6 @@ import css from './style.scss';
 [fix] : fixed user-interface-improvements system-stability
 [feat] : fixed game-result
 [update] : updated 3024
+[feat] : fixed promotional-offers social-media-integration
+[hotfix] : fixed 3027
+[feat] : fixed responsible-gambling statistics-and-analysis
