@@ -510,3 +510,7 @@ import css from './style.scss';
 [fix] : fixed bet-slip-management user-interface
 [fix] : fixed match-schedule bet-history
 [fix] : fixed data-security bet-settlement
+[fix] : fixed data-security bet-settlement
+[update] : updated 2996
+[fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 2997
