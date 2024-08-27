@@ -732,3 +732,4 @@ t-feature live-streaming
 [fix] : fixed user-interface-improvements system-stability
 [feat] : fixed bonus-system customer-support
 [fix] : fixed account-verification deposit-methods
+[hotfix] : fixed 3005
