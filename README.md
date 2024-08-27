@@ -420,3 +420,4 @@ import css from './style.scss';
 [fix] : fixed bet-slip-errors payment-processing
 [hotfix] : fixed 3013
 [fix] : fixed match-schedule bet-history
+[update] : updated 2994
