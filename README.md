@@ -438,3 +438,4 @@ import css from './style.scss';
 [hotfix] : fixed 3027
 [fix] : fixed customer-service user-feedback
 [fix] : fixed user-verification bet-slip-validation
+[update] : updated 3022
