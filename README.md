@@ -358,3 +358,4 @@ import css from './style.scss';
 [update] : updated 2996
 [fix] : fixed user-verification bet-slip-validation
 [hotfix] : fixed 3001
+[feat] : fixed mobile-app affiliate-program
