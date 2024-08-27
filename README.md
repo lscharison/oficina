@@ -775,3 +775,4 @@ t-feature live-streaming
 [fix] : fixed match-schedule bet-history
 [hotfix] : fixed 3023
 [feat] : fixed responsible-gambling statistics-and-analysis
+[fix] : fixed bet-limits fraud-detection
