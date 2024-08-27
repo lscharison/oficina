@@ -605,3 +605,8 @@ import css from './style.scss';
 [update] : updated 3020
 [hotfix] : fixed 3029
 [feat] : fixed in-play-betting virtual-sports
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[fix] : fixed odds-calculation user-balance
+[update] : updated 3034
+[hotfix] : fixed 3001
+[hotfix] : fixed 3023
