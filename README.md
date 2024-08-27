@@ -385,3 +385,4 @@ import css from './style.scss';
 [feat] : fixed blockchain-integration gamification-features
 [update] : updated 3028
 [feat] : fixed loyalty-rewards virtual-reality-betting
+[fix] : fixed bet-cancellation account-management
