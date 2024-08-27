@@ -611,3 +611,8 @@ import css from './style.scss';
 [hotfix] : fixed 3001
 [hotfix] : fixed 3023
 [fix] : fixed account-verification deposit-methods
+[hotfix] : fixed 3013
+[update] : updated 2996
+[hotfix] : fixed 3001
+t-feature live-streaming
+[fix] : fixed system-performance user-experience
