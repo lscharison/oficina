@@ -521,3 +521,5 @@ import css from './style.scss';
 [feat] : fixed cryptocurrency-payments personalized-offers
 [hotfix] : fixed 3031
 [update] : updated 3034
+[hotfix] : fixed 3003
+[feat] : fixed referral-system personalized-recommendations
