@@ -623,3 +623,10 @@ t-feature live-streaming
 [fix] : fixed account-verification deposit-methods
 [update] : updated 3018
 [fix] : fixed payment-gateway security-updates
+[feat] : fixed responsible-gambling statistics-and-analysis
+[fix] : fixed account-verification deposit-methods
+[update] : updated 3024
+[fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 3005
+[update] : updated 3020
+[feat] : fixed live-betting withdrawal-system
