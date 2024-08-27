@@ -812,3 +812,4 @@ t-feature live-streaming
 [hotfix] : fixed 3023
 [update] : updated 3004
 [fix] : fixed payment-gateway security-updates
+[update] : updated 3042
