@@ -731,3 +731,4 @@ t-feature live-streaming
 [fix] : fixed match-schedule bet-history
 [fix] : fixed user-interface-improvements system-stability
 [feat] : fixed bonus-system customer-support
+[fix] : fixed account-verification deposit-methods
