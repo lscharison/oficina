@@ -478,3 +478,4 @@ import css from './style.scss';
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [update] : updated 3016
 [feat] : fixed artificial-intelligence-predictions social-betting-features
+[feat] : fixed mobile-app affiliate-program
