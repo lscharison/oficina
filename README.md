@@ -440,3 +440,4 @@ import css from './style.scss';
 [fix] : fixed user-verification bet-slip-validation
 [update] : updated 3022
 [feat] : fixed live-betting withdrawal-system
+[fix] : fixed account-verification deposit-methods
