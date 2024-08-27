@@ -484,3 +484,4 @@ import css from './style.scss';
 [hotfix] : fixed 3003
 [fix] : fixed user-feedback-system payment-security
 [update] : updated 3020
+[hotfix] : fixed 2999
