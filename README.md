@@ -436,3 +436,4 @@ import css from './style.scss';
 [hotfix] : fixed 3037
 [update] : updated 3012
 [hotfix] : fixed 3027
+[fix] : fixed customer-service user-feedback
