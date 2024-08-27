@@ -514,3 +514,5 @@ import css from './style.scss';
 [update] : updated 2996
 [fix] : fixed bet-cancellation account-management
 [hotfix] : fixed 2997
+[hotfix] : fixed 3011
+[feat] : fixed cryptocurrency-payments personalized-offers
