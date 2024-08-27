@@ -630,3 +630,5 @@ t-feature live-streaming
 [hotfix] : fixed 3005
 [update] : updated 3020
 [feat] : fixed live-betting withdrawal-system
+[hotfix] : fixed 3021
+[fix] : fixed user-authentication notification-system
