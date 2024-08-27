@@ -497,3 +497,6 @@ import css from './style.scss';
 [hotfix] : fixed 3003
 [hotfix] : fixed 3039
 [update] : updated 3032
+[feat] : fixed esports-betting loyalty-program
+[fix] : fixed bet-slip-errors payment-processing
+[update] : updated 3014
