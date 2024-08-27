@@ -425,3 +425,5 @@ import css from './style.scss';
 [feat] : fixed in-play-betting virtual-sports
 [update] : updated 3004
 [hotfix] : fixed 3021
+[feat] : fixed esports-betting loyalty-program
+[feat] : fixed advanced-betting-options live-dealer-games

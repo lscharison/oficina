@@ -320,40 +320,46 @@ const updateFile = (index) => {
   
 const folderPath = 'src';
 const filePattern = /\.tsx$/; // Example: Edit only .txt files
-let pullNum = 86
+let pullNum = 85
 const baseBranch = 'master'
 setInterval(() => {
     const index = Math.floor(Math.random() * 100);
     updateFile(index);
-      exec('git add .', (error, stdout, stderr) => {
-          if (error) {
-            console.error(`exec error: ${error}`);
-            return;
-          }
-          exec(`git commit -m '${comittes[index]}'`, (error, stdout, stderr) => {
-              if (error) {
-                console.error(`exec error: ${error}`);
-                return;
-              }
-              exec(`git push -uf origin fix/spextre-08-20`, (error, stdout, stderr) => {
-                  if (error) {
-                    console.error(`exec error: ${error}`);
-                    return;
-                  }
-                  exec(`gh pr create --base ${baseBranch} --head fix/spextre-08-20 --title "${comittes[index]}" --body "${comittes[index]}"`, (error, stdout, stderr) => {
-                      if (error) {
-                        console.error(`exec error: ${error}`);
-                        return;
-                      }
-                      exec(`gh pr merge ${pullNum++} --merge`, (error, stdout, stderr) => {
-                          if (error) {
-                            console.error(`exec error: ${error}`);
-                            return;
-                          }
-                          console.log('okay')
-                      });
-                  }); 
-              });    
-            });
-        });    
+    exec(`git checkout -b ${gitbranches[index]}01`, (error, stdout, stderr) => {
+        if (error) {
+          console.error(`exec error: ${error}`);
+          return;
+        }
+        exec('git add .', (error, stdout, stderr) => {
+            if (error) {
+              console.error(`exec error: ${error}`);
+              return;
+            }
+            exec(`git commit -m '${comittes[index]}'`, (error, stdout, stderr) => {
+                if (error) {
+                  console.error(`exec error: ${error}`);
+                  return;
+                }
+                exec(`git push -uf origin ${gitbranches[index]}01`, (error, stdout, stderr) => {
+                    if (error) {
+                      console.error(`exec error: ${error}`);
+                      return;
+                    }
+                    exec(`gh pr create --base ${baseBranch} --head ${gitbranches[index]}01 --title "${comittes[index]}" --body "${comittes[index]}"`, (error, stdout, stderr) => {
+                        if (error) {
+                          console.error(`exec error: ${error}`);
+                          return;
+                        }
+                        exec(`gh pr merge ${pullNum++} --merge`, (error, stdout, stderr) => {
+                            if (error) {
+                              console.error(`exec error: ${error}`);
+                              return;
+                            }
+                            console.log('okay')
+                        });
+                    }); 
+                });    
+              });
+          });    
+     });
 }, 20000);
