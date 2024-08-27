@@ -343,3 +343,9 @@ import css from './style.scss';
 [hotfix] : fixed 3003
 [update] : updated 3008
 [fix] : fixed data-integrity user-profile
+[update] : updated 3000
+[update] : updated 3002
+[fix] : fixed system-performance user-experience
+[hotfix] : fixed 2995
+[update] : updated 3036
+[fix] : fixed data-security bet-settlement
