@@ -434,3 +434,4 @@ import css from './style.scss';
 [update] : updated 3030
 [fix] : fixed user-authentication notification-system
 [hotfix] : fixed 3037
+[update] : updated 3012
