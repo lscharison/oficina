@@ -685,3 +685,4 @@ t-feature live-streaming
 [fix] : fixed user-interface-updates data-analysis
 [update] : updated 3024
 [update] : updated 3026
+[feat] : fixed tournament-betting live-chat-support
