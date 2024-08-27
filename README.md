@@ -596,3 +596,12 @@ import css from './style.scss';
 [fix] : fixed odds-calculation user-balance
 [hotfix] : fixed 3031
 [feat] : fixed esports-betting loyalty-program
+[feat] : fixed live-betting withdrawal-system
+[hotfix] : fixed 3021
+[fix] : fixed data-security bet-settlement
+[update] : updated 3002
+[fix] : fixed bet-slip-management user-interface
+[feat] : fixed promotional-offers social-media-integration
+[update] : updated 3020
+[hotfix] : fixed 3029
+[feat] : fixed in-play-betting virtual-sports
