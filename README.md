@@ -686,3 +686,39 @@ t-feature live-streaming
 [update] : updated 3024
 [update] : updated 3026
 [feat] : fixed tournament-betting live-chat-support
+[feat] : fixed artificial-intelligence-predictions social-betting-features
+[feat] : fixed in-play-betting virtual-sports
+[hotfix] : fixed 3007
+[fix] : fixed account-verification deposit-methods
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3005
+[feat] : fixed in-play-betting virtual-sports
+[hotfix] : fixed 3013
+[hotfix] : fixed 3013
+[update] : updated 2996
+[fix] : fixed payment-gateway security-updates
+[hotfix] : fixed 3007
+[update] : updated 3034
+[fix] : fixed user-account-security bet-slip-errors
+[update] : updated 3036
+[feat] : fixed promotional-offers social-media-integration
+[update] : updated 3020
+[update] : updated 3042
+[feat] : fixed artificial-intelligence-predictions social-betting-features
+[feat] : fixed live-betting withdrawal-system
+[feat] : fixed live-betting withdrawal-system
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[fix] : fixed data-integrity user-profile
+[fix] : fixed bet-cancellation account-management
+[fix] : fixed data-integrity user-profile
+[fix] : fixed user-interface-updates data-analysis
+[feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3019
+[feat] : fixed mobile-app affiliate-program
+[update] : updated 3040
+[fix] : fixed payment-gateway security-updates
+[feat] : fixed loyalty-rewards virtual-reality-betting
+[fix] : fixed odds-calculation user-balance
+[update] : updated 2994
+[hotfix] : fixed 2999
+[update] : updated 3008
