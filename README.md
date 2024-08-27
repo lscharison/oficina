@@ -813,3 +813,4 @@ t-feature live-streaming
 [update] : updated 3004
 [fix] : fixed payment-gateway security-updates
 [update] : updated 3042
+[feat] : fixed cryptocurrency-payments personalized-offers
