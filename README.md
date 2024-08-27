@@ -468,3 +468,5 @@ import css from './style.scss';
 [hotfix] : fixed 3027
 [feat] : fixed responsible-gambling statistics-and-analysis
 [hotfix] : fixed 3025
+[update] : updated 3016
+[fix] : fixed odds-calculation user-balance
