@@ -453,3 +453,5 @@ import css from './style.scss';
 [hotfix] : fixed 3021
 [hotfix] : fixed 3015
 [feat] : fixed in-play-betting virtual-sports
+[fix] : fixed account-verification deposit-methods
+[update] : updated 2996
