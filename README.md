@@ -427,3 +427,6 @@ import css from './style.scss';
 [hotfix] : fixed 3021
 [feat] : fixed esports-betting loyalty-program
 [feat] : fixed advanced-betting-options live-dealer-games
+[feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3013
+[fix] : fixed user-authentication notification-system
