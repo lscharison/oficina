@@ -770,3 +770,4 @@ t-feature live-streaming
 [update] : updated 3000
 [fix] : fixed user-verification bet-slip-validation
 [fix] : fixed match-schedule bet-history
+[update] : updated 3008
