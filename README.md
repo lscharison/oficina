@@ -540,3 +540,9 @@ import css from './style.scss';
 [fix] : fixed bet-slip-management user-interface
 [feat] : fixed loyalty-rewards virtual-reality-betting
 [update] : updated 3036
+[feat] : fixed responsible-gambling statistics-and-analysis
+[feat] : fixed cryptocurrency-payments personalized-offers
+[hotfix] : fixed 3031
+[feat] : fixed mobile-app affiliate-program
+[feat] : fixed live-betting withdrawal-system
+[update] : updated 2994
