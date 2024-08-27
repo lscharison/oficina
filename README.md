@@ -446,3 +446,6 @@ import css from './style.scss';
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
 [hotfix] : fixed 3041
 [hotfix] : fixed 3021
+[fix] : fixed user-authentication notification-system
+[hotfix] : fixed 3011
+[update] : updated 3016
