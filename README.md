@@ -349,3 +349,5 @@ import css from './style.scss';
 [hotfix] : fixed 2995
 [update] : updated 3036
 [fix] : fixed data-security bet-settlement
+[hotfix] : fixed 3041
+[fix] : fixed account-verification deposit-methods
