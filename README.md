@@ -776,3 +776,6 @@ t-feature live-streaming
 [hotfix] : fixed 3023
 [feat] : fixed responsible-gambling statistics-and-analysis
 [fix] : fixed bet-limits fraud-detection
+[feat] : fixed bonus-system customer-support
+[feat] : fixed voice-command-betting augmented-reality-betting
+[update] : updated 3036
