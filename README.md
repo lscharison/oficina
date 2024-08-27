@@ -766,3 +766,4 @@ t-feature live-streaming
 [update] : updated 3024
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3033
+[feat] : fixed promotional-offers social-media-integration
