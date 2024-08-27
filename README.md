@@ -462,3 +462,4 @@ import css from './style.scss';
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
 [feat] : fixed multi-language-support mobile-optimization
 [fix] : fixed user-interface-improvements system-stability
+[feat] : fixed game-result
