@@ -479,3 +479,4 @@ import css from './style.scss';
 [update] : updated 3016
 [feat] : fixed artificial-intelligence-predictions social-betting-features
 [feat] : fixed mobile-app affiliate-program
+[fix] : fixed user-account-security bet-slip-errors
