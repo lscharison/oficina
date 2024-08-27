@@ -422,3 +422,5 @@ import css from './style.scss';
 [fix] : fixed match-schedule bet-history
 [update] : updated 2994
 [fix] : fixed user-interface-improvements system-stability
+[feat] : fixed in-play-betting virtual-sports
+[update] : updated 3004
