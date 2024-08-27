@@ -805,3 +805,6 @@ t-feature live-streaming
 [feat] : fixed cash-out-feature live-streaming
 [fix] : fixed user-verification bet-slip-validation
 [update] : updated 3040
+[update] : updated 3034
+[hotfix] : fixed 3027
+[feat] : fixed blockchain-integration gamification-features
