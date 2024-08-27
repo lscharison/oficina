@@ -441,3 +441,4 @@ import css from './style.scss';
 [update] : updated 3022
 [feat] : fixed live-betting withdrawal-system
 [fix] : fixed account-verification deposit-methods
+[fix] : fixed payment-gateway security-updates
