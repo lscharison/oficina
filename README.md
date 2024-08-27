@@ -757,3 +757,4 @@ t-feature live-streaming
 [feat] : fixed bonus-system customer-support
 [fix] : fixed data-integrity user-profile
 [update] : updated 3034
+[feat] : fixed advanced-betting-options live-dealer-games
