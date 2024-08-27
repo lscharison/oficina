@@ -363,3 +363,5 @@ import css from './style.scss';
 [update] : updated 3026
 [hotfix] : fixed 3035
 [feat] : fixed cash-out-feature live-streaming
+[feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3021
