@@ -523,3 +523,5 @@ import css from './style.scss';
 [update] : updated 3034
 [hotfix] : fixed 3003
 [feat] : fixed referral-system personalized-recommendations
+[feat] : fixed promotional-offers social-media-integration
+[feat] : fixed blockchain-integration gamification-features
