@@ -472,3 +472,7 @@ import css from './style.scss';
 [fix] : fixed odds-calculation user-balance
 [fix] : fixed bet-limits fraud-detection
 [fix] : fixed bet-slip-errors payment-processing
+[fix] : fixed user-verification bet-slip-validation
+[feat] : fixed cash-out-feature live-streaming
+[feat] : fixed live-betting withdrawal-system
+[feat] : fixed loyalty-rewards virtual-reality-betting
