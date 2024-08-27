@@ -327,3 +327,5 @@ import css from './style.scss';
 [hotfix] : fixed 2997
 [update] : updated 3000
 [fix] : fixed account-verification deposit-methods
+[fix] : fixed user-feedback-system payment-security
+[feat] : fixed blockchain-integration gamification-features
