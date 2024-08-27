@@ -760,3 +760,7 @@ t-feature live-streaming
 [feat] : fixed advanced-betting-options live-dealer-games
 [hotfix] : fixed 3035
 [hotfix] : fixed 3021
+[hotfix] : fixed 3025
+[hotfix] : fixed 3027
+[fix] : fixed bet-slip-management user-interface
+[update] : updated 3024
