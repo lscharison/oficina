@@ -509,3 +509,4 @@ import css from './style.scss';
 [feat] : fixed multi-language-support mobile-optimization
 [fix] : fixed bet-slip-management user-interface
 [fix] : fixed match-schedule bet-history
+[fix] : fixed data-security bet-settlement
