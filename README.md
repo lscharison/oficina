@@ -749,3 +749,4 @@ t-feature live-streaming
 [fix] : fixed bet-slip-errors payment-processing
 [update] : updated 3030
 [fix] : fixed odds-calculation user-balance
+[hotfix] : fixed 3039
