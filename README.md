@@ -550,3 +550,5 @@ import css from './style.scss';
 [hotfix] : fixed 3015
 [fix] : fixed account-verification deposit-methods
 [hotfix] : fixed 2993
+[hotfix] : fixed 3021
+[hotfix] : fixed 3005
