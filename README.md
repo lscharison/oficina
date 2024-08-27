@@ -483,3 +483,4 @@ import css from './style.scss';
 [fix] : fixed bet-cancellation account-management
 [hotfix] : fixed 3003
 [fix] : fixed user-feedback-system payment-security
+[update] : updated 3020
