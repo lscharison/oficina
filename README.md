@@ -334,3 +334,7 @@ import css from './style.scss';
 [hotfix] : fixed 3037
 [update] : updated 3024
 [feat] : fixed live-betting withdrawal-system
+[feat] : fixed live-betting withdrawal-system
+[hotfix] : fixed 3039
+[fix] : fixed system-performance user-experience
+[hotfix] : fixed 3033
