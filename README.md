@@ -587,3 +587,5 @@ import css from './style.scss';
 [feat] : fixed game-result
 [fix] : fixed data-security bet-settlement
 [hotfix] : fixed 3033
+[update] : updated 3028
+[update] : updated 3000
