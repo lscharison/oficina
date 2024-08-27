@@ -444,3 +444,4 @@ import css from './style.scss';
 [fix] : fixed payment-gateway security-updates
 [hotfix] : fixed 3037
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[hotfix] : fixed 3041
