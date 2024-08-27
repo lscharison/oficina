@@ -670,3 +670,16 @@ t-feature live-streaming
 [update] : updated 3024
 [fix] : fixed bet-slip-management user-interface
 [update] : updated 2998
+[update] : updated 3014
+[fix] : fixed data-security bet-settlement
+[update] : updated 3020
+[feat] : fixed bonus-system customer-support
+[update] : updated 3034
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[fix] : fixed data-security bet-settlement
+[update] : updated 3030
+[update] : updated 3030
+[fix] : fixed bet-cancellation account-management
+[hotfix] : fixed 3037
+[fix] : fixed account-verification deposit-methods
+[fix] : fixed user-interface-updates data-analysis
