@@ -492,3 +492,4 @@ import css from './style.scss';
 [fix] : fixed bet-slip-management user-interface
 [fix] : fixed odds-calculation user-balance
 [update] : updated 3004
+[hotfix] : fixed 3019
