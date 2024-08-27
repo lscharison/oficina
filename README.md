@@ -467,3 +467,4 @@ import css from './style.scss';
 [feat] : fixed promotional-offers social-media-integration
 [hotfix] : fixed 3027
 [feat] : fixed responsible-gambling statistics-and-analysis
+[hotfix] : fixed 3025
