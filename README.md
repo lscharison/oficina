@@ -589,3 +589,10 @@ import css from './style.scss';
 [hotfix] : fixed 3033
 [update] : updated 3028
 [update] : updated 3000
+[hotfix] : fixed 3031
+[feat] : fixed blockchain-integration gamification-features
+[fix] : fixed bet-limits fraud-detection
+[feat] : fixed mobile-app affiliate-program
+[fix] : fixed odds-calculation user-balance
+[hotfix] : fixed 3031
+[feat] : fixed esports-betting loyalty-program
