@@ -765,3 +765,4 @@ t-feature live-streaming
 [fix] : fixed bet-slip-management user-interface
 [update] : updated 3024
 [feat] : fixed esports-betting loyalty-program
+[hotfix] : fixed 3033
