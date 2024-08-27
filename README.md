@@ -489,3 +489,5 @@ import css from './style.scss';
 [feat] : fixed cash-out-feature live-streaming
 [update] : updated 3006
 [fix] : fixed data-integrity user-profile
+[fix] : fixed bet-slip-management user-interface
+[fix] : fixed odds-calculation user-balance
