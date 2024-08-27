@@ -616,3 +616,6 @@ import css from './style.scss';
 [hotfix] : fixed 3001
 t-feature live-streaming
 [fix] : fixed system-performance user-experience
+[hotfix] : fixed 3021
+[fix] : fixed user-feedback-system payment-security
+[update] : updated 3010
