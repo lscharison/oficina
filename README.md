@@ -476,3 +476,5 @@ import css from './style.scss';
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed live-betting withdrawal-system
 [feat] : fixed loyalty-rewards virtual-reality-betting
+[update] : updated 3016
+[feat] : fixed artificial-intelligence-predictions social-betting-features
