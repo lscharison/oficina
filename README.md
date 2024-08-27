@@ -755,3 +755,4 @@ t-feature live-streaming
 [fix] : fixed bet-slip-management user-interface
 [hotfix] : fixed 3027
 [feat] : fixed bonus-system customer-support
+[fix] : fixed data-integrity user-profile
