@@ -455,3 +455,5 @@ import css from './style.scss';
 [feat] : fixed in-play-betting virtual-sports
 [fix] : fixed account-verification deposit-methods
 [update] : updated 2996
+[feat] : fixed live-betting withdrawal-system
+[feat] : fixed cash-out-feature live-streaming
