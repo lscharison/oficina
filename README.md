@@ -450,3 +450,5 @@ import css from './style.scss';
 [hotfix] : fixed 3011
 [update] : updated 3016
 [feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3021
+[hotfix] : fixed 3015
