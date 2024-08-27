@@ -826,3 +826,8 @@ t-feature live-streaming
 [update] : updated 3000
 [update] : updated 3000
 [feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3021
+[fix] : fixed bet-slip-errors payment-processing
+[update] : updated 3030
+[feat] : fixed advanced-betting-options live-dealer-games
+[hotfix] : fixed 2995
