@@ -619,3 +619,7 @@ t-feature live-streaming
 [hotfix] : fixed 3021
 [fix] : fixed user-feedback-system payment-security
 [update] : updated 3010
+[fix] : fixed bet-slip-management user-interface
+[fix] : fixed account-verification deposit-methods
+[update] : updated 3018
+[fix] : fixed payment-gateway security-updates
