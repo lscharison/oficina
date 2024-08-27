@@ -794,3 +794,6 @@ t-feature live-streaming
 [feat] : fixed responsible-gambling statistics-and-analysis
 [fix] : fixed user-verification bet-slip-validation
 [update] : updated 3038
+[feat] : fixed esports-betting loyalty-program
+[fix] : fixed data-security bet-settlement
+[update] : updated 3006
