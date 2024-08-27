@@ -750,3 +750,4 @@ t-feature live-streaming
 [update] : updated 3030
 [fix] : fixed odds-calculation user-balance
 [hotfix] : fixed 3039
+[fix] : fixed bet-slip-management user-interface
