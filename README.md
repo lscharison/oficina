@@ -636,3 +636,11 @@ t-feature live-streaming
 [hotfix] : fixed 2997
 [feat] : fixed esports-betting loyalty-program
 [hotfix] : fixed 3035
+[feat] : fixed in-play-betting virtual-sports
+[hotfix] : fixed 2999
+[hotfix] : fixed 3041
+[update] : updated 3010
+[fix] : fixed data-integrity user-profile
+[hotfix] : fixed 3013
+[update] : updated 3036
+[feat] : fixed bonus-system customer-support
