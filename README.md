@@ -452,3 +452,4 @@ import css from './style.scss';
 [feat] : fixed mobile-app affiliate-program
 [hotfix] : fixed 3021
 [hotfix] : fixed 3015
+[feat] : fixed in-play-betting virtual-sports
