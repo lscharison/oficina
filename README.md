@@ -783,3 +783,4 @@ t-feature live-streaming
 [update] : updated 3028
 [hotfix] : fixed 3007
 [fix] : fixed data-security bet-settlement
+[feat] : fixed artificial-intelligence-predictions social-betting-features
