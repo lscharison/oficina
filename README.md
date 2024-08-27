@@ -734,3 +734,4 @@ t-feature live-streaming
 [fix] : fixed account-verification deposit-methods
 [hotfix] : fixed 3005
 [hotfix] : fixed 3029
+[hotfix] : fixed 2997
