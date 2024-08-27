@@ -741,3 +741,4 @@ t-feature live-streaming
 [feat] : fixed bonus-system customer-support
 [fix] : fixed bet-slip-errors payment-processing
 [fix] : fixed odds-calculation user-balance
+[feat] : fixed in-play-betting virtual-sports
