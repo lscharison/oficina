@@ -488,3 +488,4 @@ import css from './style.scss';
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed cash-out-feature live-streaming
 [update] : updated 3006
+[fix] : fixed data-integrity user-profile
