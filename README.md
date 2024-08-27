@@ -359,3 +359,6 @@ import css from './style.scss';
 [fix] : fixed user-verification bet-slip-validation
 [hotfix] : fixed 3001
 [feat] : fixed mobile-app affiliate-program
+[hotfix] : fixed 3023
+[update] : updated 3026
+[hotfix] : fixed 3035
