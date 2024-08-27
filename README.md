@@ -463,3 +463,4 @@ import css from './style.scss';
 [feat] : fixed multi-language-support mobile-optimization
 [fix] : fixed user-interface-improvements system-stability
 [feat] : fixed game-result
+[update] : updated 3024
