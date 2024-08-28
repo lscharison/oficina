@@ -254,3 +254,4 @@ import css from './style.scss';
 [feat] : fixed voice-command-betting augmented-reality-betting
 [feat] : fixed bonus-system customer-support
 [feat] : fixed in-play-betting virtual-sports
+[update] : updated 3030
