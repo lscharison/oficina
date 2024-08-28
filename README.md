@@ -251,3 +251,4 @@ import css from './style.scss';
 [feat] : fixed esports-betting loyalty-program
 [update] : updated 3026
 [fix] : fixed data-integrity user-profile
+[feat] : fixed voice-command-betting augmented-reality-betting
