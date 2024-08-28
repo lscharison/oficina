@@ -252,3 +252,4 @@ import css from './style.scss';
 [update] : updated 3026
 [fix] : fixed data-integrity user-profile
 [feat] : fixed voice-command-betting augmented-reality-betting
+[feat] : fixed bonus-system customer-support
