@@ -248,3 +248,4 @@ import css from './style.scss';
 # 2024-04-04
 # 2024-04-04
 [fix] : fixed account-verification deposit-methods
+[feat] : fixed esports-betting loyalty-program
