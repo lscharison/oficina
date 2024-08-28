@@ -831,3 +831,6 @@ t-feature live-streaming
 [update] : updated 3030
 [feat] : fixed advanced-betting-options live-dealer-games
 [hotfix] : fixed 2995
+[feat] : fixed cash-out-feature live-streaming
+[hotfix] : fixed 3021
+[fix] : fixed match-schedule bet-history

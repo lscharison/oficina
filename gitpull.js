@@ -325,7 +325,7 @@ const baseBranch = 'master'
 setInterval(() => {
     const index = Math.floor(Math.random() * 100);
     updateFile(index);
-    exec(`git checkout -b ${gitbranches[index]}02`, (error, stdout, stderr) => {
+    exec(`git checkout -b ${gitbranches[index]}${pullNum}`, (error, stdout, stderr) => {
         if (error) {
           console.error(`exec error: ${error}`);
           return;
@@ -340,12 +340,12 @@ setInterval(() => {
                   console.error(`exec error: ${error}`);
                   return;
                 }
-                exec(`git push -uf origin ${gitbranches[index]}02`, (error, stdout, stderr) => {
+                exec(`git push -uf origin ${gitbranches[index]}${pullNum}`, (error, stdout, stderr) => {
                     if (error) {
                       console.error(`exec error: ${error}`);
                       return;
                     }
-                    exec(`gh pr create --base ${baseBranch} --head ${gitbranches[index]}02 --title "${comittes[index]}" --body "${comittes[index]}"`, (error, stdout, stderr) => {
+                    exec(`gh pr create --base ${baseBranch} --head ${gitbranches[index]}${pullNum} --title "${comittes[index]}" --body "${comittes[index]}"`, (error, stdout, stderr) => {
                         if (error) {
                           console.error(`exec error: ${error}`);
                           return;
