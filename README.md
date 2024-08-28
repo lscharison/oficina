@@ -247,3 +247,4 @@ import css from './style.scss';
 #### 其他规范
 # 2024-04-04
 # 2024-04-04
+[feat] : fixed promotional-offers social-media-integration
