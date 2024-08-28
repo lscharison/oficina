@@ -840,3 +840,4 @@ t-feature live-streaming
 [update] : updated 2996
 [fix] : fixed bet-slip-management user-interface
 [hotfix] : fixed 3029
+[fix] : fixed user-feedback-system payment-security
