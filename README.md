@@ -250,3 +250,4 @@ import css from './style.scss';
 [fix] : fixed account-verification deposit-methods
 [feat] : fixed esports-betting loyalty-program
 [update] : updated 3026
+[fix] : fixed data-integrity user-profile
