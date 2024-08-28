@@ -253,3 +253,4 @@ import css from './style.scss';
 [fix] : fixed data-integrity user-profile
 [feat] : fixed voice-command-betting augmented-reality-betting
 [feat] : fixed bonus-system customer-support
+[feat] : fixed in-play-betting virtual-sports
