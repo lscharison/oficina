@@ -836,3 +836,4 @@ t-feature live-streaming
 [fix] : fixed match-schedule bet-history
 [update] : updated 3022
 [fix] : fixed match-schedule bet-history
+[update] : updated 3004
