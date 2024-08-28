@@ -835,3 +835,4 @@ t-feature live-streaming
 [hotfix] : fixed 3021
 [fix] : fixed match-schedule bet-history
 [update] : updated 3022
+[fix] : fixed match-schedule bet-history

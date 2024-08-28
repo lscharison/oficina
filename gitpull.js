@@ -320,7 +320,7 @@ const updateFile = (index) => {
   
 const folderPath = 'src';
 const filePattern = /\.tsx$/; // Example: Edit only .txt files
-let pullNum = 85
+let pullNum = 245
 const baseBranch = 'master'
 setInterval(() => {
     const index = Math.floor(Math.random() * 100);
@@ -356,6 +356,14 @@ setInterval(() => {
                               return;
                             }
                             console.log('okay')
+                            exec(`git checkout master`, (error, stdout, stderr) => {
+                              if (error) {
+                                console.error(`exec error: ${error}`);
+                                return;
+                              }
+                              console.log('returned')
+                              
+                          });
                         });
                     }); 
                 });    
