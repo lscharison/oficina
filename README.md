@@ -838,3 +838,4 @@ t-feature live-streaming
 [fix] : fixed match-schedule bet-history
 [update] : updated 3004
 [update] : updated 2996
+[fix] : fixed bet-slip-management user-interface
