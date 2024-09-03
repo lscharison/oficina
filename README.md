@@ -277,3 +277,4 @@ import css from './style.scss';
 [hotfix] : fixed 3027
 [update] : updated 3036
 [update] : updated 3006
+[feat] : fixed tournament-betting live-chat-support
