@@ -291,3 +291,4 @@ import css from './style.scss';
 [feat] : fixed live-betting withdrawal-system
 [hotfix] : fixed 3003
 [fix] : fixed match-schedule bet-history
+[fix] : fixed account-verification deposit-methods
