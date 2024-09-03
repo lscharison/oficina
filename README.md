@@ -265,3 +265,4 @@ import css from './style.scss';
 [feat] : fixed artificial-intelligence-predictions social-betting-features
 [hotfix] : fixed 3005
 [feat] : fixed promotional-offers social-media-integration
+[hotfix] : fixed 3002
