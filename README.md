@@ -275,3 +275,4 @@ import css from './style.scss';
 [hotfix] : fixed 2997
 [feat] : fixed cash-out-feature live-streaming
 [hotfix] : fixed 3027
+[update] : updated 3036
