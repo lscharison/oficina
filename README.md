@@ -255,3 +255,4 @@ import css from './style.scss';
 [feat] : fixed bonus-system customer-support
 [feat] : fixed in-play-betting virtual-sports
 [update] : updated 3030
+[fix] : fixed odds-calculation user-balance
