@@ -258,3 +258,4 @@ import css from './style.scss';
 [fix] : fixed odds-calculation user-balance
 [fix] : fixed user-interface-improvements system-stability
 [fix] : fixed data-integrity user-profile
+[hotfix] : fixed 3037
