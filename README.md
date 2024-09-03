@@ -274,3 +274,4 @@ import css from './style.scss';
 [feat] : fixed responsible-gambling statistics-and-analysis
 [hotfix] : fixed 2997
 [feat] : fixed cash-out-feature live-streaming
+[hotfix] : fixed 3027
