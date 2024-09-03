@@ -296,3 +296,4 @@ import css from './style.scss';
 [update] : updated 3008
 [fix] : fixed odds-calculation user-balance
 [fix] : fixed odds-calculation user-balance
+[hotfix] : fixed 3023
