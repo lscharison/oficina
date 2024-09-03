@@ -299,3 +299,4 @@ import css from './style.scss';
 [hotfix] : fixed 3023
 [feat] : fixed cryptocurrency-payments personalized-offers
 [fix] : fixed customer-service user-feedback
+[update] : updated 3022
