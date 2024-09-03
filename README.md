@@ -263,3 +263,4 @@ import css from './style.scss';
 [update] : updated 3038
 [fix] : fixed data-security bet-settlement
 [feat] : fixed artificial-intelligence-predictions social-betting-features
+[hotfix] : fixed 3005
