@@ -280,3 +280,4 @@ import css from './style.scss';
 [feat] : fixed tournament-betting live-chat-support
 [feat] : fixed promotional-offers social-media-integration
 [update] : updated 3024
+[feat] : fixed mobile-app affiliate-program
