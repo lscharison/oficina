@@ -267,3 +267,4 @@ import css from './style.scss';
 [feat] : fixed promotional-offers social-media-integration
 [hotfix] : fixed 3002
 [fix] : fixed odds-calculation user-balance
+[feat] : fixed in-play-betting virtual-sports
