@@ -266,3 +266,4 @@ import css from './style.scss';
 [hotfix] : fixed 3005
 [feat] : fixed promotional-offers social-media-integration
 [hotfix] : fixed 3002
+[fix] : fixed odds-calculation user-balance
