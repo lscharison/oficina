@@ -286,3 +286,4 @@ import css from './style.scss';
 [update] : updated 3008
 [feat] : fixed cash-out-feature live-streaming
 [feat] : fixed mobile-app affiliate-program
+[fix] : fixed system-performance user-experience
