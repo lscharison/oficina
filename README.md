@@ -290,3 +290,4 @@ import css from './style.scss';
 [hotfix] : fixed 2993
 [feat] : fixed live-betting withdrawal-system
 [hotfix] : fixed 3003
+[fix] : fixed match-schedule bet-history
