@@ -289,3 +289,4 @@ import css from './style.scss';
 [fix] : fixed system-performance user-experience
 [hotfix] : fixed 2993
 [feat] : fixed live-betting withdrawal-system
+[hotfix] : fixed 3003
