@@ -284,3 +284,4 @@ import css from './style.scss';
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
 [update] : updated 3002
 [update] : updated 3008
+[feat] : fixed cash-out-feature live-streaming
