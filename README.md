@@ -282,3 +282,4 @@ import css from './style.scss';
 [update] : updated 3024
 [feat] : fixed mobile-app affiliate-program
 [feat] : fixed virtual-reality-experiences advanced-betting-strategies
+[update] : updated 3002
