@@ -272,3 +272,4 @@ import css from './style.scss';
 [hotfix] : fixed 2993
 [fix] : fixed match-schedule bet-history
 [feat] : fixed responsible-gambling statistics-and-analysis
+[hotfix] : fixed 2997
