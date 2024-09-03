@@ -259,3 +259,4 @@ import css from './style.scss';
 [fix] : fixed user-interface-improvements system-stability
 [fix] : fixed data-integrity user-profile
 [hotfix] : fixed 3037
+[feat] : fixed referral-system personalized-recommendations
