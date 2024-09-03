@@ -281,3 +281,4 @@ import css from './style.scss';
 [feat] : fixed promotional-offers social-media-integration
 [update] : updated 3024
 [feat] : fixed mobile-app affiliate-program
+[feat] : fixed virtual-reality-experiences advanced-betting-strategies
