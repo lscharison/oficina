@@ -288,3 +288,4 @@ import css from './style.scss';
 [feat] : fixed mobile-app affiliate-program
 [fix] : fixed system-performance user-experience
 [hotfix] : fixed 2993
+[feat] : fixed live-betting withdrawal-system
