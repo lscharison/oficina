@@ -270,3 +270,4 @@ import css from './style.scss';
 [feat] : fixed in-play-betting virtual-sports
 [hotfix] : fixed 3027
 [hotfix] : fixed 2993
+[fix] : fixed match-schedule bet-history
