@@ -262,3 +262,4 @@ import css from './style.scss';
 [feat] : fixed referral-system personalized-recommendations
 [update] : updated 3038
 [fix] : fixed data-security bet-settlement
+[feat] : fixed artificial-intelligence-predictions social-betting-features
