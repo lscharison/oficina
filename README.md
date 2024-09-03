@@ -297,3 +297,4 @@ import css from './style.scss';
 [fix] : fixed odds-calculation user-balance
 [fix] : fixed odds-calculation user-balance
 [hotfix] : fixed 3023
+[feat] : fixed cryptocurrency-payments personalized-offers
