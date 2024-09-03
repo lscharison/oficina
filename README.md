@@ -256,3 +256,4 @@ import css from './style.scss';
 [feat] : fixed in-play-betting virtual-sports
 [update] : updated 3030
 [fix] : fixed odds-calculation user-balance
+[fix] : fixed user-interface-improvements system-stability
