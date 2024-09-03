@@ -264,3 +264,4 @@ import css from './style.scss';
 [fix] : fixed data-security bet-settlement
 [feat] : fixed artificial-intelligence-predictions social-betting-features
 [hotfix] : fixed 3005
+[feat] : fixed promotional-offers social-media-integration
