@@ -278,3 +278,4 @@ import css from './style.scss';
 [update] : updated 3036
 [update] : updated 3006
 [feat] : fixed tournament-betting live-chat-support
+[feat] : fixed promotional-offers social-media-integration
