@@ -269,3 +269,4 @@ import css from './style.scss';
 [fix] : fixed odds-calculation user-balance
 [feat] : fixed in-play-betting virtual-sports
 [hotfix] : fixed 3027
+[hotfix] : fixed 2993
