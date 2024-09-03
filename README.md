@@ -293,3 +293,4 @@ import css from './style.scss';
 [fix] : fixed match-schedule bet-history
 [fix] : fixed account-verification deposit-methods
 [fix] : fixed match-schedule bet-history
+[update] : updated 3008
